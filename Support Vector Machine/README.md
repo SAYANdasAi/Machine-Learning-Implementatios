@@ -75,7 +75,7 @@ SVM can handle **non-linear classification** using the **kernel trick**, which p
 
 In linearly separable data, SVM finds a **hyperplane** that separates the two classes with the **maximum margin**.
 
-![Linear SVM](https://upload.wikimedia.org/wikipedia/commons/2/2a/Svm_separating_hyperplanes.png)
+![Linear SVM](https://hands-on.cloud/wp-content/uploads/2021/12/Overview-of-supervised-learning-SVM-1024x576.png)
 
 In this image:
 - The solid line represents the **optimal hyperplane**.
@@ -88,7 +88,7 @@ In this image:
 
 When the data is **not linearly separable**, SVM applies the **kernel trick** to map data to a higher dimension where it can be separated by a hyperplane.
 
-![Kernel Trick](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png)
+![Kernel Trick](./images/kernel-3d.png)
 
 In this image:
 - The data is transformed into a higher dimension using a **nonlinear kernel** so that it becomes linearly separable in the new space.
