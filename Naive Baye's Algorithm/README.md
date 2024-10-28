@@ -91,7 +91,7 @@ P(C|X) \propto P(C) \prod_{i=1}^{n} P(X_i|C)
 
 ## Visual Representation
 
-![Naive Bayes Classification](https://upload.wikimedia.org/wikipedia/commons/5/51/Naive_Bayes_Classification.png)
+![Naive Bayes Classification](https://miro.medium.com/v2/resize:fit:720/format:webp/1*CP2M_hTMv79S_bkPVX823w.png)
 
 In the image above, the Naive Bayes classifier is illustrated, showing how it categorizes data points based on prior knowledge of feature distributions.
 
